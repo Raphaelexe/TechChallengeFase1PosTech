@@ -9,6 +9,9 @@ Entre os resultados, destacam-se a situação crítica atual da empresa — onde
 
 ---
 
+## Link do Vídeo
+https://drive.google.com/file/d/1NLDLwI8H1Rh3j8kFEgjliSoGvXFfHdZo/view?usp=sharing
+
 ## 🗂️ Estrutura do Repositório
 
 ```text
